@@ -1,0 +1,2 @@
+メール通知を受け取るには、メールIDをカンマ（、）で区切って入力してください。(Please enter the mail IDs separated with comma(,) for getting mail notification):
+govendan.p@marelli.com,manimekala.rajendran@marelli.com
